@@ -18,6 +18,7 @@ setup(
     long_description_content_type="text/markdown",
     author='Sumanth Lingappa',
     author_email='sumanth.lingappa@gmail.com',
+    url='https://github.com/sumanth-lingappa/adcami',
     keywords = [
         'citrix adc',
         'aws ami',
